@@ -1,1 +1,1 @@
-<?php echo "login page"; ?>
+<?php echo "login_This is new page"; ?>
